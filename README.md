@@ -18,5 +18,5 @@ Purpose of the Project:
 
 Provide access to the resources of Cuba Support Ministry through the web in a very interactive and simple way.
 
-How to viwe de website:
+How to view de website:
 Run index.html

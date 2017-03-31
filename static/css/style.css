@@ -28,9 +28,11 @@ p.entry-title{
 /*---------------Estilo del footer------------------------*/
 .bg-purple{
     color: #fff;
-    background: firebrick
+    background: firebrick;
+    text-align: center;
 }
 
+h4
 /*---------------Borde entre libros------------------------*/
 .mb-2{
     border-bottom: 1px solid #e2e2e2;     
