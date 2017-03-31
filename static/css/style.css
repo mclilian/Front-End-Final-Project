@@ -1,0 +1,46 @@
+/*---------------Dandole estilo a los Titulos de las Areas------------------------*/
+body
+{
+background-color:#FFF;
+font-family:Arial, Helvetica, sans-serif;
+padding:0;
+font-size:12px;
+margin:0px auto auto auto;
+color:#000000;
+}
+
+p.entry-title{
+	color:#000;	
+	font-size:20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	border: #FFF;
+}
+
+
+
+/*---------------PRIMERA PARTE------------------------*/
+.mr-auto{
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+/*---------------Estilo del footer------------------------*/
+.bg-purple{
+    color: #fff;
+    background: firebrick
+}
+
+/*---------------Borde entre libros------------------------*/
+.mb-2{
+    border-bottom: 1px solid #e2e2e2;     
+    margin: 1rem auto;
+}
+p {
+	float: right;
+}
+
+a.entry-details{
+	font-size: large;
+	color: #996600;
+}
