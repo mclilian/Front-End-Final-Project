@@ -16,8 +16,10 @@ Detailed steps on how to view the website. For most projects, this may just be "
 
 Purpose of the Project:
 
-
 Propose to the Ministry Support Cuba, an example of how to share the literary resources it possesses through the use of the web in an interactive, simple and pleasant way.
+
+Thread Tools: In this version was used as Front-End Framework bootstrap, to make it responsive to various types of devices, in this case, large, mediums and smalls.
+
 
 How to use This First Version:
 
