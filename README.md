@@ -16,7 +16,31 @@ Detailed steps on how to view the website. For most projects, this may just be "
 
 Purpose of the Project:
 
-Provide access to the resources of Cuba Support Ministry through the web in a very interactive and simple way.
+
+Propose to the Ministry Support Cuba, an example of how to share the literary resources it possesses through the use of the web in an interactive, simple and pleasant way.
+
+How to use This First Version:
+
+The first view that we find is a representation of the 6 areas that make up the Cuba Support Ministry
+Through Books.
+
+Areas are:
+Family
+Counseling
+Leadership
+Teach with life
+Youth Ministry
+Resource Center.
+
+Second View is an approach to the Book with a brief description of the area to which it belongs, this is when we click on the image of the book.
+
+And Third and Ultima Vista is the direct access to the book, which we can
+- read directly when we choose the read button (in blue), of the modal box.
+- close if we choose the close button (in white color) of the modal box.
+
+For reasons of prefection once we are in the view of the book itself to avoid the total closure of the project. We must choose the back arrow in the left corner of the browser.
+
+In later versions, we will improve this result.
 
 How to view de website:
 Run index.html
